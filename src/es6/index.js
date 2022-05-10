@@ -93,5 +93,9 @@ console.log(globalVar);
 const a = "a";
 //a = "b"; //**ERROR no se puede reasignar valores a un const
 
+//--------------------------------------------------------------------------------------------
 
+  
+
+//********** a  ************/
 
